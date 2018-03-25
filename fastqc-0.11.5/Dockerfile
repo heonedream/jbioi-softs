@@ -1,4 +1,4 @@
-FROM kongdeju/centos-java
+FROM jbioi/centos-java
 
 MAINTAINER kongdeju <kongdeju@gene.ac>
 

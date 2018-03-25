@@ -1,4 +1,4 @@
-FROM kongdeju/ubuntu-rbase
+FROM jbioi/ubuntu-rbase
 
 MAINTAINER kongdeju <kongdeju@gene.ac>
 

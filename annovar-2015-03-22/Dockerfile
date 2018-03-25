@@ -1,4 +1,4 @@
-FROM kongdeju/alpine-perl
+FROM jbioi/alpine-perl
 
 ADD annovar/*.pl /usr/bin/
 
