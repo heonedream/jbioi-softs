@@ -1,6 +1,4 @@
-
-
-FROM kongdeju/alpine-dev:stable
+FROM kongdeju/alpine-dev
 MAINTAINER kongdeju <kongdeju@gene.ac>
 # install fastp by conda
 RUN conda install -y fastp && conda clean -y --all

@@ -1,4 +1,4 @@
-FROM kongdeju/ubuntu-rbase:stable
+FROM kongdeju/ubuntu-rbase
 
 MAINTAINER kongdeju <kongdeju@gene.ac>
 

@@ -1,4 +1,4 @@
-FROM kongdeju/alpine-dev:stable 
+FROM kongdeju/alpine-dev 
 
 MAINTAINER kongdeju kongdeju@gene.ac
 

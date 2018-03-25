@@ -1,4 +1,4 @@
-FROM kongdeju/centos-dev:stable
+FROM kongdeju/centos-dev
 
 MAINTAINER kongdeju <kongdeju@gene.ac>
 
